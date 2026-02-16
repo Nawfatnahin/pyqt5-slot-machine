@@ -1,4 +1,5 @@
 Slot Machine Game
+created by Nawfat
 
 * A simple desktop slot machine game built with Python and PyQt5.
 
@@ -16,7 +17,8 @@ pip install PyQt5
 python main.py
 
 # Screenshot
-(Add your screenshot here later)
+<img width="716" height="539" alt="Screenshot 2026-02-16 233044" src="https://github.com/user-attachments/assets/b8847a58-50d4-4840-973f-cf01584ff79a" />
+
 
 # What I Learned
 - PyQt5 GUI design
