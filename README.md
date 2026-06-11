@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.x-green?logo=qt&logoColor=white)](https://pypi.org/project/PyQt5/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
 ---
@@ -183,7 +182,7 @@ Ideas for improvement:
 
 ---
 
-# This project is open source.
+## This project is open source.
 
 ---
 
